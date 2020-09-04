@@ -20,6 +20,4 @@ mkdir /opt/sonarqube/
 
 cd /opt/sonarqube/ 
 
-git clone https://github.com/brenolacerda/docker-compose_sonarqube.git
-
 /usr/local/bin/docker-compose up
